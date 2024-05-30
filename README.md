@@ -19,6 +19,7 @@ Credit card fraud detection is a critical task in the financial industry. This p
    - Handling missing values
    - Feature extraction from datetime fields
    - One-hot encoding of categorical variables
+  Dataset - https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 2. **Model Training**:
    - Training multiple models (Logistic Regression, Decision Tree, Random Forest)
