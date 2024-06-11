@@ -1,4 +1,6 @@
 # Credit Card Fraud Detection
+![poster](https://github.com/Rahulbhutna72400/Credit_Card_Fraud_Detection/assets/114943689/56429a07-f729-4750-9b1f-9812182c5075)
+
 
 This project focuses on building a machine learning model to detect fraudulent credit card transactions. The dataset used contains information about credit card transactions, including whether each transaction is fraudulent or legitimate. Various machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, are employed to classify transactions.
 
